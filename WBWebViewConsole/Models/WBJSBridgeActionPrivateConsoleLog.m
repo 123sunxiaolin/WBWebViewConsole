@@ -16,6 +16,7 @@
 #import "WBWebViewJSBridge.h"
 #import "WBWebView.h"
 #import "NSDictionary+WBTTypeCast.h"
+#import "NSDictionary+Accessors.h"
 
 @implementation WBJSBridgeActionPrivateConsoleLog
 
